@@ -2,5 +2,7 @@
 #include<unistd.h>
 int mian(void)
 {
-	printf("cnmcnmcnm");
+	printf("kcuhajbseuk");
+	printf("bhjkzscb");
+	printf("dasjbfck");
 }
